@@ -1,5 +1,5 @@
 # Backend coding challenge
-API mashup of Github and Twitter.
+Access API mashup of Github and Twitter via command line.
 
 ## Application Software Dependency
 
