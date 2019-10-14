@@ -9,8 +9,8 @@ API mashup of Github and Twitter.
 ## Setup
 
 - Open Linux / Windows terminal
-- Clone repository: git clone
-- Change directory into api-backend-challenge
+- Clone repository: `git clone https://github.com/cryptostan101/api-backend-challenge`
+- Change directory into api-backend-challenge folder
 - Install NodeJS application dependency:  `npm install`
 - Replace environment variable in .env properties with your twitter API keys
 ```bash
@@ -32,7 +32,7 @@ npm start
 
 ```
 
-## Check Code Quality Syntax - eslint / standard)
+## Check Code Quality Syntax - standard)
 - `npm run style` || `npx standard`
 
 ## Run Test
